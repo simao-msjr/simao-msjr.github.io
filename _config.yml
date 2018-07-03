@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: simao.junior.712
+facebook: simao.msjr
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -48,7 +48,7 @@ github: simaojunior
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: simao.msjr
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: simao.msjr@gmail.com
