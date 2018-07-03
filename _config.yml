@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://simaojunior.github.io
+url: https://simao-msjr.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,13 +42,13 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: simaojunior
+github: simao-msjr
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: simao.msjr
+medium: simao-msjr
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: simao.msjr@gmail.com
